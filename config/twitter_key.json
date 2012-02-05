@@ -4,5 +4,5 @@
   "access_token_key"    : "48188274-PsxLGhh7SJVzz3catdgmfNGLGa6qHYsq7464koFrJ",
   "access_token_secret" : "pR7CpeEtC3yBIof1c8lmVCoGDKMjLy1bTboIOIXVCKM",
 
-  "callback_url"        : "http://localhost.dev:3000"
+  "callback_url"        : "http://127.0.0.1:3000/auth/twitter/callback"
 }
